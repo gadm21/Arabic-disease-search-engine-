@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <link rel="stylesheet" href="../static/main.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="left-side">
+        <!-- Disease database in arabic -->
+        <h2>قاعدة بيانات الأمراض</h2>
+        
+        
+        <ul>
+          {% for disease in diseases %}
+            <li><a href="#" onclick="handleClick('{{ disease }}')">{{ disease}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="right-side">
+        <h2>بحث</h2>
+        <form onsubmit="handleSubmit(event)">
+          <input type="text" placeholder="بحث...">
+          <button type="submit">ابحث عن مرض</button>
+        </form>
+        
+        <textarea id="result">{{ result }}</textarea>
+      </div>
+    </div>
+    <script>
+      function handleClick(disease) {
+        fetch(`/click?disease=${disease}`)
+          .then(response => response.text())
+          .then(text => {
+            updateResult(text);
+          });
+      }
+  
+      function handleSubmit() {
+  const input = document.querySelector("input[type='text']").value;
+  fetch(`/submit?input=${input}`)
+    .then(response => response.text())
+    .then(text => {
+      updateResult(text);
+    });
+}
+
+
+  
+      function updateResult(text) {
+        const resultEl = document.getElementById("result");
+        resultEl.innerText = text;
+      }
+    </script>
+  </body>
+</html>

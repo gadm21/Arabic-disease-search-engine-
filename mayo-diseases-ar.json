@@ -1,0 +1,3078 @@
+[
+    {
+        "disease_id": 0,
+        "disease_name": "رجفان أذيني",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 1,
+                "risk_name": "مرض قلبي"
+            },
+            {
+                "risk_id": 2,
+                "risk_name": "ضغط دم مرتفع"
+            },
+            {
+                "risk_id": 3,
+                "risk_name": "مرض الغدة الدرقية"
+            },
+            {
+                "risk_id": 4,
+                "risk_name": "حالات صحية مزمنة أخرى"
+            },
+            {
+                "risk_id": 5,
+                "risk_name": "شرب الكحول"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            }
+        ]
+    },
+    {
+        "disease_id": 1,
+        "disease_name": "تمدد الأوعية الدموية الأبهري",
+        "causes": [
+            {
+                "cause_id": 0,
+                "cause_name": "تصلب الشرايين (تصلب الشرايين)"
+            },
+            {
+                "cause_id": 1,
+                "cause_name": "ضغط دم مرتفع"
+            },
+            {
+                "cause_id": 2,
+                "cause_name": "أمراض الأوعية الدموية"
+            },
+            {
+                "cause_id": 3,
+                "cause_name": "عدوى في الشريان الأورطي"
+            },
+            {
+                "cause_id": 4,
+                "cause_name": "صدمة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 8,
+                "risk_name": "تعاطي التبغ"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 9,
+                "risk_name": "أن تكون ذكرا"
+            },
+            {
+                "risk_id": 10,
+                "risk_name": "أن تكون أبيض"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 11,
+                "risk_name": "تمدد الأوعية الدموية الأخرى"
+            }
+        ]
+    },
+    {
+        "disease_id": 2,
+        "disease_name": "التهاب وتر العرقوب",
+        "causes": [
+            {
+                "cause_id": 5,
+                "cause_name": "جنسك"
+            },
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 7,
+                "cause_name": "مشاكل جسدية"
+            },
+            {
+                "cause_id": 8,
+                "cause_name": "خيارات التدريب"
+            },
+            {
+                "cause_id": 9,
+                "cause_name": "حالات طبيه"
+            },
+            {
+                "cause_id": 10,
+                "cause_name": "الأدوية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 12,
+                "risk_name": "جنسك"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 13,
+                "risk_name": "مشاكل جسدية"
+            },
+            {
+                "risk_id": 14,
+                "risk_name": "خيارات التدريب"
+            },
+            {
+                "risk_id": 15,
+                "risk_name": "حالات طبيه"
+            },
+            {
+                "risk_id": 16,
+                "risk_name": "الأدوية"
+            }
+        ]
+    },
+    {
+        "disease_id": 3,
+        "disease_name": "nigricans الأقنثة",
+        "causes": [
+            {
+                "cause_id": 11,
+                "cause_name": "مقاومة الأنسولين"
+            },
+            {
+                "cause_id": 12,
+                "cause_name": "بعض الأدوية والمكملات الغذائية"
+            },
+            {
+                "cause_id": 13,
+                "cause_name": "سرطان"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 4,
+        "disease_name": "مرض الجزر المعدي المريئي (جيرد)",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 5,
+        "disease_name": "كيسة بارثولين",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 6,
+        "disease_name": "فرط التعرق",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 7,
+        "disease_name": "إصابة الرباط الصليبي الأمامي",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 8,
+        "disease_name": "ارتجاع المريء",
+        "causes": [
+            {
+                "cause_id": 14,
+                "cause_name": ""
+            },
+            {
+                "cause_id": 15,
+                "cause_name": "تضيق البواب"
+            },
+            {
+                "cause_id": 16,
+                "cause_name": "عدم تحمل الطعام"
+            },
+            {
+                "cause_id": 17,
+                "cause_name": "التهاب المريء اليوزيني"
+            },
+            {
+                "cause_id": 18,
+                "cause_name": "متلازمة سانديفر"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 9,
+        "disease_name": "تعذر الارتخاء",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 10,
+        "disease_name": "نوبة بدون اختلاج",
+        "causes": [
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 19,
+                "cause_name": "الجنس"
+            },
+            {
+                "cause_id": 20,
+                "cause_name": "أفراد الأسرة المصابون بنوبات صرع"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 18,
+                "risk_name": "أفراد الأسرة المصابون بنوبات صرع"
+            }
+        ]
+    },
+    {
+        "disease_id": 11,
+        "disease_name": "تمزق وتر العرقوب",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 19,
+                "risk_name": "الرياضات الترفيهية"
+            },
+            {
+                "risk_id": 20,
+                "risk_name": "حقن الستيرويد"
+            },
+            {
+                "risk_id": 21,
+                "risk_name": "بعض المضادات الحيوية"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            }
+        ]
+    },
+    {
+        "disease_id": 12,
+        "disease_name": "العصب السمعي",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 13,
+        "disease_name": "التهاب الغدد العرقية",
+        "causes": [
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 19,
+                "cause_name": "الجنس"
+            },
+            {
+                "cause_id": 21,
+                "cause_name": "سباق"
+            },
+            {
+                "cause_id": 22,
+                "cause_name": "تاريخ العائلة"
+            },
+            {
+                "cause_id": 23,
+                "cause_name": "شروط معينة"
+            },
+            {
+                "cause_id": 24,
+                "cause_name": "التدخين"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 22,
+                "risk_name": "سباق"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 23,
+                "risk_name": "شروط معينة"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            }
+        ]
+    },
+    {
+        "disease_id": 14,
+        "disease_name": "حَبُّ الشّبَاب",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 25,
+                "risk_name": "التغيرات الهرمونية"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 26,
+                "risk_name": "المواد الدهنية أو الزيتية"
+            },
+            {
+                "risk_id": 27,
+                "risk_name": "احتكاك أو ضغط على بشرتك"
+            }
+        ]
+    },
+    {
+        "disease_id": 15,
+        "disease_name": "التقرن الشعاعى",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 16,
+        "disease_name": "الفشل الكلوي الحاد",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 17,
+        "disease_name": "ARDS",
+        "causes": [
+            {
+                "cause_id": 25,
+                "cause_name": "الإنتان"
+            },
+            {
+                "cause_id": 26,
+                "cause_name": "استنشاق مواد ضارة"
+            },
+            {
+                "cause_id": 27,
+                "cause_name": "الالتهاب الرئوي الشديد"
+            },
+            {
+                "cause_id": 28,
+                "cause_name": "الرأس أو الصدر أو إصابة خطيرة أخرى"
+            },
+            {
+                "cause_id": 29,
+                "cause_name": "مرض فيروس كورونا 2019 (كوفيد -19)"
+            },
+            {
+                "cause_id": 30,
+                "cause_name": "آحرون"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 28,
+                "risk_name": "جلطات الدم"
+            },
+            {
+                "risk_id": 29,
+                "risk_name": "انهيار الرئة (استرواح الصدر)"
+            },
+            {
+                "risk_id": 30,
+                "risk_name": "الالتهابات"
+            },
+            {
+                "risk_id": 31,
+                "risk_name": "تندب (تليف رئوي)"
+            }
+        ]
+    },
+    {
+        "disease_id": 18,
+        "disease_name": "متلازمة الشريان التاجي الحادة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 19,
+        "disease_name": "ابيضاض الدم الليمفاوي الحاد",
+        "causes": [
+            {
+                "cause_id": 31,
+                "cause_name": "علاج السرطان السابق"
+            },
+            {
+                "cause_id": 32,
+                "cause_name": "التعرض للإشعاع"
+            },
+            {
+                "cause_id": 33,
+                "cause_name": "الاضطرابات الوراثية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 32,
+                "risk_name": "علاج السرطان السابق"
+            },
+            {
+                "risk_id": 33,
+                "risk_name": "التعرض للإشعاع"
+            },
+            {
+                "risk_id": 34,
+                "risk_name": "الاضطرابات الوراثية"
+            }
+        ]
+    },
+    {
+        "disease_id": 20,
+        "disease_name": "الاعتماد على النيكوتين",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 35,
+                "risk_name": "علم الوراثة"
+            },
+            {
+                "risk_id": 36,
+                "risk_name": "الآباء والأقران"
+            },
+            {
+                "risk_id": 37,
+                "risk_name": "الاكتئاب أو غيره من الأمراض العقلية"
+            },
+            {
+                "risk_id": 38,
+                "risk_name": "استعمال مواد"
+            }
+        ]
+    },
+    {
+        "disease_id": 21,
+        "disease_name": "القمار القهري",
+        "causes": [
+            {
+                "cause_id": 34,
+                "cause_name": "قضايا الصحة العقلية"
+            },
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 19,
+                "cause_name": "الجنس"
+            },
+            {
+                "cause_id": 35,
+                "cause_name": "تأثير الأسرة أو الأصدقاء"
+            },
+            {
+                "cause_id": 36,
+                "cause_name": "الأدوية المستخدمة في علاج مرض باركنسون ومتلازمة تململ الساقين"
+            },
+            {
+                "cause_id": 37,
+                "cause_name": "خصائص شخصية معينة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 39,
+                "risk_name": "قضايا الصحة العقلية"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 40,
+                "risk_name": "تأثير الأسرة أو الأصدقاء"
+            },
+            {
+                "risk_id": 41,
+                "risk_name": "الأدوية المستخدمة في علاج مرض باركنسون ومتلازمة تململ الساقين"
+            },
+            {
+                "risk_id": 42,
+                "risk_name": "خصائص شخصية معينة"
+            }
+        ]
+    },
+    {
+        "disease_id": 22,
+        "disease_name": "اضطراب معاقرة الكحوليات",
+        "causes": [
+            {
+                "cause_id": 38,
+                "cause_name": "الشرب المطرد بمرور الوقت"
+            },
+            {
+                "cause_id": 39,
+                "cause_name": "ابتداء من سن مبكرة"
+            },
+            {
+                "cause_id": 22,
+                "cause_name": "تاريخ العائلة"
+            },
+            {
+                "cause_id": 40,
+                "cause_name": "الاكتئاب ومشاكل الصحة العقلية الأخرى"
+            },
+            {
+                "cause_id": 41,
+                "cause_name": "تاريخ الصدمة"
+            },
+            {
+                "cause_id": 42,
+                "cause_name": "الخضوع لجراحة السمنة"
+            },
+            {
+                "cause_id": 43,
+                "cause_name": "العوامل الاجتماعية والثقافية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 43,
+                "risk_name": "الشرب المطرد بمرور الوقت"
+            },
+            {
+                "risk_id": 44,
+                "risk_name": "ابتداء من سن مبكرة"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 45,
+                "risk_name": "الاكتئاب ومشاكل الصحة العقلية الأخرى"
+            },
+            {
+                "risk_id": 46,
+                "risk_name": "تاريخ الصدمة"
+            },
+            {
+                "risk_id": 47,
+                "risk_name": "الخضوع لجراحة السمنة"
+            },
+            {
+                "risk_id": 48,
+                "risk_name": "العوامل الاجتماعية والثقافية"
+            }
+        ]
+    },
+    {
+        "disease_id": 23,
+        "disease_name": "التهاب الجيوب الأنفية الحاد",
+        "causes": [
+            {
+                "cause_id": 44,
+                "cause_name": "حمى القش أو أي حالة حساسية أخرى"
+            },
+            {
+                "cause_id": 45,
+                "cause_name": "نزلات البرد"
+            },
+            {
+                "cause_id": 46,
+                "cause_name": "شذوذ في ممر الأنف"
+            },
+            {
+                "cause_id": 47,
+                "cause_name": "حالة طبية"
+            },
+            {
+                "cause_id": 48,
+                "cause_name": "التعرض للدخان"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 49,
+                "risk_name": "حمى القش أو أي حالة حساسية أخرى"
+            },
+            {
+                "risk_id": 50,
+                "risk_name": "نزلات البرد"
+            },
+            {
+                "risk_id": 51,
+                "risk_name": "شذوذ في ممر الأنف"
+            },
+            {
+                "risk_id": 52,
+                "risk_name": "حالة طبية"
+            },
+            {
+                "risk_id": 53,
+                "risk_name": "التعرض للدخان"
+            }
+        ]
+    },
+    {
+        "disease_id": 24,
+        "disease_name": "فشل الكبد الحاد",
+        "causes": [
+            {
+                "cause_id": 49,
+                "cause_name": "وصفات الأدوية"
+            },
+            {
+                "cause_id": 50,
+                "cause_name": "المكملات العشبية"
+            },
+            {
+                "cause_id": 51,
+                "cause_name": "التهاب الكبد والفيروسات الأخرى"
+            },
+            {
+                "cause_id": 52,
+                "cause_name": "السموم"
+            },
+            {
+                "cause_id": 53,
+                "cause_name": "مرض يصيب جهاز المناعه"
+            },
+            {
+                "cause_id": 54,
+                "cause_name": "أمراض الأوردة في الكبد"
+            },
+            {
+                "cause_id": 55,
+                "cause_name": "مرض التمثيل الغذائي"
+            },
+            {
+                "cause_id": 13,
+                "cause_name": "سرطان"
+            },
+            {
+                "cause_id": 56,
+                "cause_name": "صدمة"
+            },
+            {
+                "cause_id": 57,
+                "cause_name": "ضربة شمس"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 25,
+        "disease_name": "مرض الإشعاع",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 26,
+        "disease_name": "التهاب العقد اللمفية المساريقية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 27,
+        "disease_name": "اضطراب نقص الانتباه مع فرط النشاط عند البالغين (ADHD)",
+        "causes": [
+            {
+                "cause_id": 58,
+                "cause_name": "علم الوراثة"
+            },
+            {
+                "cause_id": 59,
+                "cause_name": "بيئة"
+            },
+            {
+                "cause_id": 60,
+                "cause_name": "مشاكل أثناء التطوير"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 28,
+        "disease_name": "اضطراب نقص الانتباه مع فرط النشاط (ADHD) عند الأطفال",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 29,
+        "disease_name": "ابيضاض الدم النقوي الحاد",
+        "causes": [
+            {
+                "cause_id": 61,
+                "cause_name": "التقدم في العمر"
+            },
+            {
+                "cause_id": 5,
+                "cause_name": "جنسك"
+            },
+            {
+                "cause_id": 31,
+                "cause_name": "علاج السرطان السابق"
+            },
+            {
+                "cause_id": 32,
+                "cause_name": "التعرض للإشعاع"
+            },
+            {
+                "cause_id": 62,
+                "cause_name": "التعرض للمواد الكيميائية الخطرة"
+            },
+            {
+                "cause_id": 24,
+                "cause_name": "التدخين"
+            },
+            {
+                "cause_id": 63,
+                "cause_name": "اضطرابات الدم الأخرى"
+            },
+            {
+                "cause_id": 33,
+                "cause_name": "الاضطرابات الوراثية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 54,
+                "risk_name": "التقدم في العمر"
+            },
+            {
+                "risk_id": 12,
+                "risk_name": "جنسك"
+            },
+            {
+                "risk_id": 32,
+                "risk_name": "علاج السرطان السابق"
+            },
+            {
+                "risk_id": 33,
+                "risk_name": "التعرض للإشعاع"
+            },
+            {
+                "risk_id": 55,
+                "risk_name": "التعرض للمواد الكيميائية الخطرة"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            },
+            {
+                "risk_id": 56,
+                "risk_name": "اضطرابات الدم الأخرى"
+            },
+            {
+                "risk_id": 34,
+                "risk_name": "الاضطرابات الوراثية"
+            }
+        ]
+    },
+    {
+        "disease_id": 30,
+        "disease_name": "العضال الغدي",
+        "causes": [
+            {
+                "cause_id": 64,
+                "cause_name": "نمو الأنسجة الغازية"
+            },
+            {
+                "cause_id": 65,
+                "cause_name": "الأصول التنموية"
+            },
+            {
+                "cause_id": 66,
+                "cause_name": "التهاب الرحم المرتبط بالولادة"
+            },
+            {
+                "cause_id": 67,
+                "cause_name": "أصول الخلايا الجذعية"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 31,
+        "disease_name": "متلازمة غيلان باريه",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 32,
+        "disease_name": "مرض اديسون",
+        "causes": [
+            {
+                "cause_id": 68,
+                "cause_name": "القشرانيات السكرية"
+            },
+            {
+                "cause_id": 69,
+                "cause_name": "القشرانيات المعدنية"
+            },
+            {
+                "cause_id": 70,
+                "cause_name": "الأندروجينات"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 33,
+        "disease_name": "اضطرابات التكيف",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 34,
+        "disease_name": "داء ستيل في البالغين",
+        "causes": [
+            {
+                "cause_id": 71,
+                "cause_name": "تدمير المفصل"
+            },
+            {
+                "cause_id": 72,
+                "cause_name": "التهاب قلبك"
+            },
+            {
+                "cause_id": 73,
+                "cause_name": "السوائل الزائدة حول رئتيك"
+            },
+            {
+                "cause_id": 74,
+                "cause_name": "متلازمة تنشيط البلاعم"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 57,
+                "risk_name": "تدمير المفصل"
+            },
+            {
+                "risk_id": 58,
+                "risk_name": "التهاب قلبك"
+            },
+            {
+                "risk_id": 59,
+                "risk_name": "السوائل الزائدة حول رئتيك"
+            },
+            {
+                "risk_id": 60,
+                "risk_name": "متلازمة تنشيط البلاعم"
+            }
+        ]
+    },
+    {
+        "disease_id": 35,
+        "disease_name": "فيروس نقص المناعة البشرية / الإيدز",
+        "causes": [
+            {
+                "cause_id": 75,
+                "cause_name": "بممارسة الجنس"
+            },
+            {
+                "cause_id": 76,
+                "cause_name": "عن طريق تقاسم الإبر"
+            },
+            {
+                "cause_id": 77,
+                "cause_name": "من عمليات نقل الدم"
+            },
+            {
+                "cause_id": 78,
+                "cause_name": "أثناء الحمل أو الولادة أو الرضاعة الطبيعية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 61,
+                "risk_name": "ممارسة الجنس دون وقاية"
+            },
+            {
+                "risk_id": 62,
+                "risk_name": "أحصل على"
+            },
+            {
+                "risk_id": 63,
+                "risk_name": ""
+            },
+            {
+                "risk_id": 64,
+                "risk_name": "استخدم عقاقير الحقن غير المشروعة"
+            }
+        ]
+    },
+    {
+        "disease_id": 36,
+        "disease_name": "فصام الطفولة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 37,
+        "disease_name": "كتف متجمدة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 38,
+        "disease_name": "ضخامة الاطراف",
+        "causes": [
+            {
+                "cause_id": 79,
+                "cause_name": "أورام الغدة النخامية"
+            },
+            {
+                "cause_id": 80,
+                "cause_name": "أورام غير نخامية"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 39,
+        "disease_name": "التهاب النخاع الرخو الحاد (AFM)",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 40,
+        "disease_name": "أورام Adnexal",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 41,
+        "disease_name": "متلازمة سويت",
+        "causes": [
+            {
+                "cause_id": 19,
+                "cause_name": "الجنس"
+            },
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 13,
+                "cause_name": "سرطان"
+            },
+            {
+                "cause_id": 81,
+                "cause_name": "مشاكل صحية أخرى"
+            },
+            {
+                "cause_id": 82,
+                "cause_name": "حمل"
+            },
+            {
+                "cause_id": 83,
+                "cause_name": "حساسية الدواء"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 65,
+                "risk_name": "سرطان"
+            },
+            {
+                "risk_id": 66,
+                "risk_name": "مشاكل صحية أخرى"
+            },
+            {
+                "risk_id": 67,
+                "risk_name": "حمل"
+            },
+            {
+                "risk_id": 68,
+                "risk_name": "حساسية الدواء"
+            }
+        ]
+    },
+    {
+        "disease_id": 42,
+        "disease_name": "البقع العمرية (بقع الكبد)",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 43,
+        "disease_name": "حثل الغدة الكظرية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 44,
+        "disease_name": "أورام الغدة الكظرية الحميدة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 45,
+        "disease_name": "سرطان الغدة الكظرية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 46,
+        "disease_name": "التنكس البقعي الرطب",
+        "causes": [
+            {
+                "cause_id": 84,
+                "cause_name": "فقدان البصر الناجم عن عدم انتظام نمو الأوعية الدموية"
+            },
+            {
+                "cause_id": 85,
+                "cause_name": "فقدان البصر الناجم عن تراكم السوائل في مؤخرة العين"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 69,
+                "risk_name": "تاريخ العائلة وعلم الوراثة"
+            },
+            {
+                "risk_id": 22,
+                "risk_name": "سباق"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            },
+            {
+                "risk_id": 70,
+                "risk_name": "أمراض القلب والأوعية الدموية"
+            }
+        ]
+    },
+    {
+        "disease_id": 47,
+        "disease_name": "التنكس البقعي الجاف",
+        "causes": [
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 86,
+                "cause_name": "تاريخ العائلة وعلم الوراثة"
+            },
+            {
+                "cause_id": 21,
+                "cause_name": "سباق"
+            },
+            {
+                "cause_id": 24,
+                "cause_name": "التدخين"
+            },
+            {
+                "cause_id": 87,
+                "cause_name": "بدانة"
+            },
+            {
+                "cause_id": 88,
+                "cause_name": "أمراض القلب والأوعية الدموية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 69,
+                "risk_name": "تاريخ العائلة وعلم الوراثة"
+            },
+            {
+                "risk_id": 22,
+                "risk_name": "سباق"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            },
+            {
+                "risk_id": 70,
+                "risk_name": "أمراض القلب والأوعية الدموية"
+            }
+        ]
+    },
+    {
+        "disease_id": 48,
+        "disease_name": "رهاب الخلاء",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 49,
+        "disease_name": "تليف النخاع",
+        "causes": [
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 89,
+                "cause_name": "اضطراب آخر في خلايا الدم"
+            },
+            {
+                "cause_id": 90,
+                "cause_name": "التعرض لمواد كيميائية معينة"
+            },
+            {
+                "cause_id": 32,
+                "cause_name": "التعرض للإشعاع"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 71,
+                "risk_name": "اضطراب آخر في خلايا الدم"
+            },
+            {
+                "risk_id": 72,
+                "risk_name": "التعرض لمواد كيميائية معينة"
+            },
+            {
+                "risk_id": 33,
+                "risk_name": "التعرض للإشعاع"
+            }
+        ]
+    },
+    {
+        "disease_id": 50,
+        "disease_name": "المهق",
+        "causes": [
+            {
+                "cause_id": 91,
+                "cause_name": "المهق الجلدي العيني (OCA)"
+            },
+            {
+                "cause_id": 92,
+                "cause_name": "المهق العيني"
+            },
+            {
+                "cause_id": 93,
+                "cause_name": "المهق المتعلق بمتلازمة وراثية نادرة"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 51,
+        "disease_name": "تسمم كحولى",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 52,
+        "disease_name": "عدم تحمل الكحول",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 53,
+        "disease_name": "أذن الطائرة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 54,
+        "disease_name": "حمى الكلأ",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 55,
+        "disease_name": "التهاب الكبد الكحولي",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 12,
+                "risk_name": "جنسك"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            },
+            {
+                "risk_id": 73,
+                "risk_name": "عوامل وراثية"
+            },
+            {
+                "risk_id": 74,
+                "risk_name": "السلالة والعرق"
+            },
+            {
+                "risk_id": 75,
+                "risk_name": "نبدا بالشرب"
+            }
+        ]
+    },
+    {
+        "disease_id": 56,
+        "disease_name": "متلازمة شيرج ستروس",
+        "causes": [
+            {
+                "cause_id": 94,
+                "cause_name": "تلف الأعصاب المحيطية"
+            },
+            {
+                "cause_id": 95,
+                "cause_name": "مرض قلبي"
+            },
+            {
+                "cause_id": 96,
+                "cause_name": "تلف الكلى"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 57,
+        "disease_name": "الحساسية",
+        "causes": [
+            {
+                "cause_id": 97,
+                "cause_name": "مسببات الحساسية المحمولة جوا"
+            },
+            {
+                "cause_id": 98,
+                "cause_name": "أطعمة معينة"
+            },
+            {
+                "cause_id": 99,
+                "cause_name": "لدغات الحشرات"
+            },
+            {
+                "cause_id": 10,
+                "cause_name": "الأدوية"
+            },
+            {
+                "cause_id": 100,
+                "cause_name": "اللاتكس أو المواد الأخرى التي تلمسها"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 76,
+                "risk_name": "لديك تاريخ عائلي للإصابة بالربو أو الحساسية"
+            },
+            {
+                "risk_id": 77,
+                "risk_name": "هي طفل"
+            },
+            {
+                "risk_id": 78,
+                "risk_name": "مصاب بالربو"
+            }
+        ]
+    },
+    {
+        "disease_id": 58,
+        "disease_name": "حساسية البيض",
+        "causes": [
+            {
+                "cause_id": 101,
+                "cause_name": "مرض في الجلد"
+            },
+            {
+                "cause_id": 22,
+                "cause_name": "تاريخ العائلة"
+            },
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 79,
+                "risk_name": "مرض في الجلد"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            }
+        ]
+    },
+    {
+        "disease_id": 59,
+        "disease_name": "حساسية عث الغبار",
+        "causes": [
+            {
+                "cause_id": 102,
+                "cause_name": "وجود تاريخ عائلي من الحساسية"
+            },
+            {
+                "cause_id": 103,
+                "cause_name": "التعرض لعث الغبار"
+            },
+            {
+                "cause_id": 104,
+                "cause_name": "أن تكون طفلًا أو شابًا"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 80,
+                "risk_name": "وجود تاريخ عائلي من الحساسية"
+            },
+            {
+                "risk_id": 81,
+                "risk_name": "التعرض لعث الغبار"
+            },
+            {
+                "risk_id": 82,
+                "risk_name": "أن تكون طفلًا أو شابًا"
+            }
+        ]
+    },
+    {
+        "disease_id": 60,
+        "disease_name": "حساسية الطعام",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 83,
+                "risk_name": "الحساسية الأخرى"
+            },
+            {
+                "risk_id": 84,
+                "risk_name": "الربو"
+            }
+        ]
+    },
+    {
+        "disease_id": 61,
+        "disease_name": "حساسية النيكل",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 85,
+                "risk_name": "ثقب الأذن أو الجسم"
+            },
+            {
+                "risk_id": 86,
+                "risk_name": "أن تكوني أنثى"
+            },
+            {
+                "risk_id": 87,
+                "risk_name": "وجود تاريخ عائلي للإصابة بحساسية النيكل"
+            },
+            {
+                "risk_id": 88,
+                "risk_name": "الحساسية من المعادن الأخرى"
+            }
+        ]
+    },
+    {
+        "disease_id": 62,
+        "disease_name": "حساسية الفول السوداني",
+        "causes": [
+            {
+                "cause_id": 105,
+                "cause_name": "اتصال مباشر"
+            },
+            {
+                "cause_id": 106,
+                "cause_name": "عبر الاتصال"
+            },
+            {
+                "cause_id": 107,
+                "cause_name": "استنشاق"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 89,
+                "risk_name": "حساسية من الفول السوداني في الماضي"
+            },
+            {
+                "risk_id": 83,
+                "risk_name": "الحساسية الأخرى"
+            },
+            {
+                "risk_id": 90,
+                "risk_name": "أفراد الأسرة المصابون بالحساسية"
+            },
+            {
+                "risk_id": 79,
+                "risk_name": "مرض في الجلد"
+            }
+        ]
+    },
+    {
+        "disease_id": 63,
+        "disease_name": "حساسية العفن",
+        "causes": [
+            {
+                "cause_id": 102,
+                "cause_name": "وجود تاريخ عائلي من الحساسية"
+            },
+            {
+                "cause_id": 108,
+                "cause_name": "العمل في مهنة تعرضك للعفن"
+            },
+            {
+                "cause_id": 109,
+                "cause_name": "العمل أو العيش في مبنى معرض للرطوبة الزائدة"
+            },
+            {
+                "cause_id": 110,
+                "cause_name": "العيش في منزل سيئ التهوية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 80,
+                "risk_name": "وجود تاريخ عائلي من الحساسية"
+            },
+            {
+                "risk_id": 91,
+                "risk_name": "العمل في مهنة تعرضك للعفن"
+            },
+            {
+                "risk_id": 92,
+                "risk_name": "العمل أو العيش في مبنى معرض للرطوبة الزائدة"
+            },
+            {
+                "risk_id": 93,
+                "risk_name": "العيش في منزل سيئ التهوية"
+            }
+        ]
+    },
+    {
+        "disease_id": 64,
+        "disease_name": "حساسية الحليب",
+        "causes": [
+            {
+                "cause_id": 111,
+                "cause_name": "الكازين"
+            },
+            {
+                "cause_id": 112,
+                "cause_name": "مصل اللبن"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 83,
+                "risk_name": "الحساسية الأخرى"
+            },
+            {
+                "risk_id": 79,
+                "risk_name": "مرض في الجلد"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            }
+        ]
+    },
+    {
+        "disease_id": 65,
+        "disease_name": "حساسية اللاتكس",
+        "causes": [
+            {
+                "cause_id": 105,
+                "cause_name": "اتصال مباشر"
+            },
+            {
+                "cause_id": 107,
+                "cause_name": "استنشاق"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 94,
+                "risk_name": "الأشخاص المصابون بالسنسنة المشقوقة"
+            },
+            {
+                "risk_id": 95,
+                "risk_name": "الأشخاص الذين خضعوا لعمليات جراحية أو إجراءات طبية متعددة"
+            },
+            {
+                "risk_id": 96,
+                "risk_name": "عمال الرعاية الصحية"
+            },
+            {
+                "risk_id": 97,
+                "risk_name": "عمال صناعة المطاط"
+            },
+            {
+                "risk_id": 98,
+                "risk_name": "الأشخاص الذين لديهم تاريخ شخصي أو عائلي من الحساسية"
+            }
+        ]
+    },
+    {
+        "disease_id": 66,
+        "disease_name": "حساسية الحيوانات الأليفة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 67,
+        "disease_name": "حساسية المحار",
+        "causes": [
+            {
+                "cause_id": 113,
+                "cause_name": "قشريات"
+            },
+            {
+                "cause_id": 114,
+                "cause_name": "رخويات"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 68,
+        "disease_name": "حساسية البنسلين",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 69,
+        "disease_name": "تساقط الشعر",
+        "causes": [
+            {
+                "cause_id": 115,
+                "cause_name": "تاريخ العائلة (الوراثة)"
+            },
+            {
+                "cause_id": 116,
+                "cause_name": "التغيرات الهرمونية والحالات الطبية"
+            },
+            {
+                "cause_id": 117,
+                "cause_name": "الأدوية والمكملات"
+            },
+            {
+                "cause_id": 118,
+                "cause_name": "العلاج الإشعاعي للرأس"
+            },
+            {
+                "cause_id": 119,
+                "cause_name": "حدث مرهق للغاية"
+            },
+            {
+                "cause_id": 120,
+                "cause_name": "تسريحات الشعر والعلاجات"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 70,
+        "disease_name": "حساسية القمح",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            }
+        ]
+    },
+    {
+        "disease_id": 71,
+        "disease_name": "متلازمة ألفا غال",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 72,
+        "disease_name": "مقبس جاف",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 99,
+                "risk_name": "التدخين وتعاطي التبغ"
+            },
+            {
+                "risk_id": 100,
+                "risk_name": "موانع الحمل الفموية"
+            },
+            {
+                "risk_id": 101,
+                "risk_name": "رعاية غير لائقة في المنزل"
+            },
+            {
+                "risk_id": 102,
+                "risk_name": "وجود سنخ جاف في الماضي"
+            },
+            {
+                "risk_id": 103,
+                "risk_name": "عدوى الأسنان أو اللثة"
+            }
+        ]
+    },
+    {
+        "disease_id": 73,
+        "disease_name": "الأعضاء التناسلية غامضة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 74,
+        "disease_name": "المينوبلاستوما",
+        "causes": [
+            {
+                "cause_id": 121,
+                "cause_name": "الورم الأرومي المينائي التقليدي"
+            },
+            {
+                "cause_id": 122,
+                "cause_name": "الورم الأرومي المينائي أحادي الكيس"
+            },
+            {
+                "cause_id": 123,
+                "cause_name": "الورم الأرومي المينائي المحيطي"
+            },
+            {
+                "cause_id": 124,
+                "cause_name": "الورم الأرومي المينائي المنتشر"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 75,
+        "disease_name": "فقدان الذاكرة العالمي العابر",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 104,
+                "risk_name": "تاريخ الصداع النصفي"
+            }
+        ]
+    },
+    {
+        "disease_id": 76,
+        "disease_name": "العين الكسولة (الغمش)",
+        "causes": [
+            {
+                "cause_id": 125,
+                "cause_name": "اختلال التوازن العضلي (الحول الحول)"
+            },
+            {
+                "cause_id": 126,
+                "cause_name": "الحرمان"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 77,
+        "disease_name": "التصلب الجانبي الضموري (ALS)",
+        "causes": [
+            {
+                "cause_id": 127,
+                "cause_name": "الوراثة"
+            },
+            {
+                "cause_id": 6,
+                "cause_name": "عمر"
+            },
+            {
+                "cause_id": 19,
+                "cause_name": "الجنس"
+            },
+            {
+                "cause_id": 58,
+                "cause_name": "علم الوراثة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 105,
+                "risk_name": "الوراثة"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 35,
+                "risk_name": "علم الوراثة"
+            }
+        ]
+    },
+    {
+        "disease_id": 78,
+        "disease_name": "مرض الزهايمر",
+        "causes": [
+            {
+                "cause_id": 128,
+                "cause_name": "صفائح"
+            },
+            {
+                "cause_id": 129,
+                "cause_name": "التشابك"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 79,
+        "disease_name": "سرطان أمبولي",
+        "causes": [
+            {
+                "cause_id": 130,
+                "cause_name": "عمرك"
+            },
+            {
+                "cause_id": 131,
+                "cause_name": "أن تكون ذكرا"
+            },
+            {
+                "cause_id": 132,
+                "cause_name": "المتلازمات الموروثة التي تزيد من خطر الإصابة بالسرطان"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 106,
+                "risk_name": "عمرك"
+            },
+            {
+                "risk_id": 9,
+                "risk_name": "أن تكون ذكرا"
+            },
+            {
+                "risk_id": 107,
+                "risk_name": "المتلازمات الموروثة التي تزيد من خطر الإصابة بالسرطان"
+            }
+        ]
+    },
+    {
+        "disease_id": 80,
+        "disease_name": "فقدان الذاكرة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 81,
+        "disease_name": "نشاء",
+        "causes": [
+            {
+                "cause_id": 133,
+                "cause_name": "الداء النشواني AL (الداء النشواني الخفيف السلسلة المناعي)"
+            },
+            {
+                "cause_id": 134,
+                "cause_name": "AA من النشا"
+            },
+            {
+                "cause_id": 135,
+                "cause_name": "الداء النشواني الوراثي (الداء النشواني العائلي)"
+            },
+            {
+                "cause_id": 136,
+                "cause_name": "الداء النشواني من النوع البري"
+            },
+            {
+                "cause_id": 137,
+                "cause_name": "الداء النشواني المحلي"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            },
+            {
+                "risk_id": 108,
+                "risk_name": "أمراض أخرى"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 109,
+                "risk_name": "غسيل الكلى"
+            },
+            {
+                "risk_id": 22,
+                "risk_name": "سباق"
+            }
+        ]
+    },
+    {
+        "disease_id": 82,
+        "disease_name": "انقطاع الطمث",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 110,
+                "risk_name": "اضطرابات الاكل"
+            },
+            {
+                "risk_id": 111,
+                "risk_name": "تدريب رياضي"
+            },
+            {
+                "risk_id": 112,
+                "risk_name": "تاريخ بعض الإجراءات النسائية"
+            }
+        ]
+    },
+    {
+        "disease_id": 83,
+        "disease_name": "شق شرجي",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 113,
+                "risk_name": "إمساك"
+            },
+            {
+                "risk_id": 114,
+                "risk_name": "الولادة"
+            },
+            {
+                "risk_id": 115,
+                "risk_name": "مرض كرون"
+            },
+            {
+                "risk_id": 116,
+                "risk_name": "الجماع الشرجي"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            }
+        ]
+    },
+    {
+        "disease_id": 84,
+        "disease_name": "حكة الشرج",
+        "causes": [
+            {
+                "cause_id": 138,
+                "cause_name": "المهيجات"
+            },
+            {
+                "cause_id": 139,
+                "cause_name": "الالتهابات"
+            },
+            {
+                "cause_id": 140,
+                "cause_name": "الأمراض الجلدية"
+            },
+            {
+                "cause_id": 141,
+                "cause_name": "حالات طبية أخرى"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 85,
+        "disease_name": "الناسور الشرجي",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 86,
+        "disease_name": "سرطان الشرج",
+        "causes": [
+            {
+                "cause_id": 142,
+                "cause_name": "كبار السن"
+            },
+            {
+                "cause_id": 143,
+                "cause_name": "العديد من الشركاء الجنسيين"
+            },
+            {
+                "cause_id": 144,
+                "cause_name": "الجنس الشرجي"
+            },
+            {
+                "cause_id": 24,
+                "cause_name": "التدخين"
+            },
+            {
+                "cause_id": 145,
+                "cause_name": "تاريخ مرض السرطان"
+            },
+            {
+                "cause_id": 146,
+                "cause_name": "فيروس الورم الحليمي البشري (HPV)"
+            },
+            {
+                "cause_id": 147,
+                "cause_name": "الأدوية أو الحالات التي تثبط جهاز المناعة لديك"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 117,
+                "risk_name": "كبار السن"
+            },
+            {
+                "risk_id": 118,
+                "risk_name": "العديد من الشركاء الجنسيين"
+            },
+            {
+                "risk_id": 119,
+                "risk_name": "الجنس الشرجي"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            },
+            {
+                "risk_id": 120,
+                "risk_name": "تاريخ مرض السرطان"
+            },
+            {
+                "risk_id": 121,
+                "risk_name": "فيروس الورم الحليمي البشري (HPV)"
+            },
+            {
+                "risk_id": 122,
+                "risk_name": "الأدوية أو الحالات التي تثبط جهاز المناعة لديك"
+            }
+        ]
+    },
+    {
+        "disease_id": 87,
+        "disease_name": "فقر الدم الناجم عن نقص الفيتامينات",
+        "causes": [
+            {
+                "cause_id": 148,
+                "cause_name": "نظام عذائي"
+            },
+            {
+                "cause_id": 149,
+                "cause_name": "فقر الدم الخبيث"
+            },
+            {
+                "cause_id": 150,
+                "cause_name": "جراحات المعدة"
+            },
+            {
+                "cause_id": 151,
+                "cause_name": "مشاكل معوية"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 88,
+        "disease_name": "فقر الدم المنجلي",
+        "causes": [
+            {
+                "cause_id": 152,
+                "cause_name": "سكتة دماغية"
+            },
+            {
+                "cause_id": 153,
+                "cause_name": "متلازمة الصدر الحادة"
+            },
+            {
+                "cause_id": 154,
+                "cause_name": "ارتفاع ضغط الشريان الرئوي"
+            },
+            {
+                "cause_id": 155,
+                "cause_name": "في تلفها"
+            },
+            {
+                "cause_id": 156,
+                "cause_name": "حبس الطحال"
+            },
+            {
+                "cause_id": 157,
+                "cause_name": "العمى"
+            },
+            {
+                "cause_id": 158,
+                "cause_name": "تقرحات الساق"
+            },
+            {
+                "cause_id": 159,
+                "cause_name": "حصى في المرارة"
+            },
+            {
+                "cause_id": 160,
+                "cause_name": "قساح"
+            },
+            {
+                "cause_id": 161,
+                "cause_name": "تجلط الأوردة العميقة"
+            },
+            {
+                "cause_id": 162,
+                "cause_name": "مضاعفات الحمل"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 123,
+                "risk_name": "سكتة دماغية"
+            },
+            {
+                "risk_id": 124,
+                "risk_name": "متلازمة الصدر الحادة"
+            },
+            {
+                "risk_id": 125,
+                "risk_name": "ارتفاع ضغط الشريان الرئوي"
+            },
+            {
+                "risk_id": 126,
+                "risk_name": "في تلفها"
+            },
+            {
+                "risk_id": 127,
+                "risk_name": "حبس الطحال"
+            },
+            {
+                "risk_id": 128,
+                "risk_name": "العمى"
+            },
+            {
+                "risk_id": 129,
+                "risk_name": "تقرحات الساق"
+            },
+            {
+                "risk_id": 130,
+                "risk_name": "حصى في المرارة"
+            },
+            {
+                "risk_id": 131,
+                "risk_name": "قساح"
+            },
+            {
+                "risk_id": 132,
+                "risk_name": "تجلط الأوردة العميقة"
+            },
+            {
+                "risk_id": 133,
+                "risk_name": "مضاعفات الحمل"
+            }
+        ]
+    },
+    {
+        "disease_id": 89,
+        "disease_name": "الثلاسيميا",
+        "causes": [
+            {
+                "cause_id": 163,
+                "cause_name": "جين واحد متحور"
+            },
+            {
+                "cause_id": 164,
+                "cause_name": "اثنان من الجينات الطافرة"
+            },
+            {
+                "cause_id": 165,
+                "cause_name": "ثلاثة جينات متحولة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 134,
+                "risk_name": "تاريخ عائلي للإصابة بالثلاسيميا"
+            },
+            {
+                "risk_id": 135,
+                "risk_name": "أصل معين"
+            }
+        ]
+    },
+    {
+        "disease_id": 90,
+        "disease_name": "التهاب الأوعية الدموية",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 136,
+                "risk_name": "اختيارات نمط الحياة"
+            },
+            {
+                "risk_id": 16,
+                "risk_name": "الأدوية"
+            },
+            {
+                "risk_id": 30,
+                "risk_name": "الالتهابات"
+            },
+            {
+                "risk_id": 137,
+                "risk_name": "اضطرابات المناعة"
+            },
+            {
+                "risk_id": 17,
+                "risk_name": "الجنس"
+            }
+        ]
+    },
+    {
+        "disease_id": 91,
+        "disease_name": "فقر الدم الناجم عن نقص الحديد",
+        "causes": [
+            {
+                "cause_id": 166,
+                "cause_name": "فقدان الدم"
+            },
+            {
+                "cause_id": 167,
+                "cause_name": "نقص الحديد في نظامك الغذائي"
+            },
+            {
+                "cause_id": 168,
+                "cause_name": "عدم القدرة على امتصاص الحديد"
+            },
+            {
+                "cause_id": 82,
+                "cause_name": "حمل"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 138,
+                "risk_name": "نحيف"
+            },
+            {
+                "risk_id": 139,
+                "risk_name": "الرضع والأطفال"
+            },
+            {
+                "risk_id": 140,
+                "risk_name": "النباتيون"
+            },
+            {
+                "risk_id": 141,
+                "risk_name": "المتبرعين بالدم بشكل متكرر"
+            }
+        ]
+    },
+    {
+        "disease_id": 92,
+        "disease_name": "تمدد الأوعية الدموية في الدماغ",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 93,
+        "disease_name": "تمدد الأوعية الدموية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 94,
+        "disease_name": "ذبحة",
+        "causes": [
+            {
+                "cause_id": 61,
+                "cause_name": "التقدم في العمر"
+            },
+            {
+                "cause_id": 169,
+                "cause_name": "تاريخ عائلي للإصابة بأمراض القلب"
+            },
+            {
+                "cause_id": 170,
+                "cause_name": "تعاطي التبغ"
+            },
+            {
+                "cause_id": 171,
+                "cause_name": "السكري"
+            },
+            {
+                "cause_id": 1,
+                "cause_name": "ضغط دم مرتفع"
+            },
+            {
+                "cause_id": 172,
+                "cause_name": "ارتفاع نسبة الكوليسترول أو الدهون الثلاثية"
+            },
+            {
+                "cause_id": 173,
+                "cause_name": "حالات صحية أخرى"
+            },
+            {
+                "cause_id": 174,
+                "cause_name": "ممارسة غير كافية"
+            },
+            {
+                "cause_id": 87,
+                "cause_name": "بدانة"
+            },
+            {
+                "cause_id": 175,
+                "cause_name": "ضغط عاطفي"
+            },
+            {
+                "cause_id": 10,
+                "cause_name": "الأدوية"
+            },
+            {
+                "cause_id": 176,
+                "cause_name": "تعاطي المخدرات"
+            },
+            {
+                "cause_id": 177,
+                "cause_name": "درجات الحرارة الباردة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 54,
+                "risk_name": "التقدم في العمر"
+            },
+            {
+                "risk_id": 142,
+                "risk_name": "تاريخ عائلي للإصابة بأمراض القلب"
+            },
+            {
+                "risk_id": 8,
+                "risk_name": "تعاطي التبغ"
+            },
+            {
+                "risk_id": 143,
+                "risk_name": "السكري"
+            },
+            {
+                "risk_id": 2,
+                "risk_name": "ضغط دم مرتفع"
+            },
+            {
+                "risk_id": 144,
+                "risk_name": "ارتفاع نسبة الكوليسترول أو الدهون الثلاثية"
+            },
+            {
+                "risk_id": 145,
+                "risk_name": "حالات صحية أخرى"
+            },
+            {
+                "risk_id": 146,
+                "risk_name": "ممارسة غير كافية"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            },
+            {
+                "risk_id": 147,
+                "risk_name": "ضغط عاطفي"
+            },
+            {
+                "risk_id": 16,
+                "risk_name": "الأدوية"
+            },
+            {
+                "risk_id": 148,
+                "risk_name": "تعاطي المخدرات"
+            },
+            {
+                "risk_id": 149,
+                "risk_name": "درجات الحرارة الباردة"
+            }
+        ]
+    },
+    {
+        "disease_id": 95,
+        "disease_name": "خلايا النحل والوذمة الوعائية",
+        "causes": [
+            {
+                "cause_id": 178,
+                "cause_name": "أغذية"
+            },
+            {
+                "cause_id": 10,
+                "cause_name": "الأدوية"
+            },
+            {
+                "cause_id": 97,
+                "cause_name": "مسببات الحساسية المحمولة جوا"
+            },
+            {
+                "cause_id": 179,
+                "cause_name": "لدغات الحشرات والالتهابات"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 96,
+        "disease_name": "أم الدم الأبهرية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 97,
+        "disease_name": "عضوية Angelman",
+        "causes": [
+            {
+                "cause_id": 180,
+                "cause_name": "صعوبات التغذية"
+            },
+            {
+                "cause_id": 181,
+                "cause_name": "فرط النشاط"
+            },
+            {
+                "cause_id": 182,
+                "cause_name": "اضطرابات النوم"
+            },
+            {
+                "cause_id": 183,
+                "cause_name": "انحناء العمود الفقري (الجنف)"
+            },
+            {
+                "cause_id": 87,
+                "cause_name": "بدانة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 150,
+                "risk_name": "صعوبات التغذية"
+            },
+            {
+                "risk_id": 151,
+                "risk_name": "فرط النشاط"
+            },
+            {
+                "risk_id": 152,
+                "risk_name": "اضطرابات النوم"
+            },
+            {
+                "risk_id": 153,
+                "risk_name": "انحناء العمود الفقري (الجنف)"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            }
+        ]
+    },
+    {
+        "disease_id": 98,
+        "disease_name": "الساركوما الوعائية",
+        "causes": [
+            {
+                "cause_id": 184,
+                "cause_name": "علاج إشعاعي"
+            },
+            {
+                "cause_id": 185,
+                "cause_name": "التورم الناجم عن تلف الأوعية اللمفاوية"
+            },
+            {
+                "cause_id": 186,
+                "cause_name": "مواد كيميائية"
+            },
+            {
+                "cause_id": 187,
+                "cause_name": "المتلازمات الجينية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 154,
+                "risk_name": "علاج إشعاعي"
+            },
+            {
+                "risk_id": 155,
+                "risk_name": "التورم الناجم عن تلف الأوعية اللمفاوية"
+            },
+            {
+                "risk_id": 156,
+                "risk_name": "مواد كيميائية"
+            },
+            {
+                "risk_id": 157,
+                "risk_name": "المتلازمات الجينية"
+            }
+        ]
+    },
+    {
+        "disease_id": 99,
+        "disease_name": "تمدد الأوعية الدموية الأبهري الصدري",
+        "causes": [
+            {
+                "cause_id": 0,
+                "cause_name": "تصلب الشرايين (تصلب الشرايين)"
+            },
+            {
+                "cause_id": 188,
+                "cause_name": "التهاب الأوعية الدموية"
+            },
+            {
+                "cause_id": 189,
+                "cause_name": "عدم انتظام الصمام الأبهري"
+            },
+            {
+                "cause_id": 190,
+                "cause_name": "عدوى غير معالجة"
+            },
+            {
+                "cause_id": 191,
+                "cause_name": "الإصابات"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            },
+            {
+                "risk_id": 8,
+                "risk_name": "تعاطي التبغ"
+            },
+            {
+                "risk_id": 2,
+                "risk_name": "ضغط دم مرتفع"
+            },
+            {
+                "risk_id": 158,
+                "risk_name": "تراكم لويحات في الشرايين"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 159,
+                "risk_name": "الظروف الجينية"
+            },
+            {
+                "risk_id": 160,
+                "risk_name": "الصمام الأبهري ثنائي الشرف"
+            }
+        ]
+    },
+    {
+        "disease_id": 100,
+        "disease_name": "تمدد الأوعية الدموية في الشريان المأبضي",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 101,
+        "disease_name": "مرض Castleman",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 102,
+        "disease_name": "فقر دم لا تنسّجي",
+        "causes": [
+            {
+                "cause_id": 192,
+                "cause_name": "العلاج الإشعاعي والكيميائي"
+            },
+            {
+                "cause_id": 193,
+                "cause_name": "التعرض للمواد الكيميائية السامة"
+            },
+            {
+                "cause_id": 194,
+                "cause_name": "استخدام بعض الأدوية"
+            },
+            {
+                "cause_id": 195,
+                "cause_name": "اضطرابات المناعة الذاتية"
+            },
+            {
+                "cause_id": 196,
+                "cause_name": "عدوى فيروسية"
+            },
+            {
+                "cause_id": 82,
+                "cause_name": "حمل"
+            },
+            {
+                "cause_id": 197,
+                "cause_name": "عوامل غير معروفة"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 103,
+        "disease_name": "هبوط المهبل الأمامي (القيلة المثانية)",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 161,
+                "risk_name": "الحمل والولادة"
+            },
+            {
+                "risk_id": 162,
+                "risk_name": "شيخوخة"
+            },
+            {
+                "risk_id": 163,
+                "risk_name": "استئصال الرحم"
+            },
+            {
+                "risk_id": 35,
+                "risk_name": "علم الوراثة"
+            },
+            {
+                "risk_id": 6,
+                "risk_name": "بدانة"
+            }
+        ]
+    },
+    {
+        "disease_id": 104,
+        "disease_name": "فقدان الشهية العصبي",
+        "causes": [
+            {
+                "cause_id": 198,
+                "cause_name": "بيولوجي"
+            },
+            {
+                "cause_id": 199,
+                "cause_name": "نفسي"
+            },
+            {
+                "cause_id": 200,
+                "cause_name": "بيئي"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 35,
+                "risk_name": "علم الوراثة"
+            },
+            {
+                "risk_id": 164,
+                "risk_name": "الرجيم والجوع"
+            },
+            {
+                "risk_id": 165,
+                "risk_name": "الانتقالات"
+            }
+        ]
+    },
+    {
+        "disease_id": 105,
+        "disease_name": "ربطة اللسان (Ankyloglossia)",
+        "causes": [
+            {
+                "cause_id": 201,
+                "cause_name": "مشاكل الرضاعة الطبيعية"
+            },
+            {
+                "cause_id": 202,
+                "cause_name": "صعوبات الكلام"
+            },
+            {
+                "cause_id": 203,
+                "cause_name": "نظافة الفم السيئة"
+            },
+            {
+                "cause_id": 204,
+                "cause_name": "التحديات مع الأنشطة الشفوية الأخرى"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 166,
+                "risk_name": "مشاكل الرضاعة الطبيعية"
+            },
+            {
+                "risk_id": 167,
+                "risk_name": "صعوبات الكلام"
+            },
+            {
+                "risk_id": 168,
+                "risk_name": "نظافة الفم السيئة"
+            },
+            {
+                "risk_id": 169,
+                "risk_name": "التحديات مع الأنشطة الشفوية الأخرى"
+            }
+        ]
+    },
+    {
+        "disease_id": 106,
+        "disease_name": "كاحل ملتوي",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 170,
+                "risk_name": "المشاركة الرياضية"
+            },
+            {
+                "risk_id": 171,
+                "risk_name": "الأسطح غير المستوية"
+            },
+            {
+                "risk_id": 172,
+                "risk_name": "إصابة سابقة في الكاحل"
+            },
+            {
+                "risk_id": 173,
+                "risk_name": "الحالة الجسدية السيئة"
+            },
+            {
+                "risk_id": 174,
+                "risk_name": "أحذية غير لائقة"
+            }
+        ]
+    },
+    {
+        "disease_id": 107,
+        "disease_name": "الجمرة الخبيثة",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 108,
+        "disease_name": "Anorgasmia عند النساء",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 109,
+        "disease_name": "التهاب القولون الغشائي الكاذب",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 110,
+        "disease_name": "التهاب الفقرات التصلبي",
+        "causes": [
+            {
+                "cause_id": 205,
+                "cause_name": "التهاب العين (التهاب القزحية)"
+            },
+            {
+                "cause_id": 206,
+                "cause_name": "كسور الانضغاط"
+            },
+            {
+                "cause_id": 207,
+                "cause_name": "مشاكل قلبية"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 175,
+                "risk_name": "التهاب العين (التهاب القزحية)"
+            },
+            {
+                "risk_id": 176,
+                "risk_name": "كسور الانضغاط"
+            },
+            {
+                "risk_id": 177,
+                "risk_name": "مشاكل قلبية"
+            }
+        ]
+    },
+    {
+        "disease_id": 111,
+        "disease_name": "متلازمة الفوسفوليبيد",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 112,
+        "disease_name": "الإسهال المرتبط بالمضادات الحيوية",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 113,
+        "disease_name": "اضطراب القلق المعمم",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 178,
+                "risk_name": "شخصية"
+            },
+            {
+                "risk_id": 35,
+                "risk_name": "علم الوراثة"
+            },
+            {
+                "risk_id": 179,
+                "risk_name": "خبرة"
+            }
+        ]
+    },
+    {
+        "disease_id": 114,
+        "disease_name": "اضطرابات القلق",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 180,
+                "risk_name": "صدمة"
+            },
+            {
+                "risk_id": 181,
+                "risk_name": "الإجهاد بسبب المرض"
+            },
+            {
+                "risk_id": 182,
+                "risk_name": "تراكم الإجهاد"
+            },
+            {
+                "risk_id": 178,
+                "risk_name": "شخصية"
+            },
+            {
+                "risk_id": 183,
+                "risk_name": "اضطرابات الصحة العقلية الأخرى"
+            },
+            {
+                "risk_id": 184,
+                "risk_name": "وجود أقارب مصابين باضطراب القلق"
+            },
+            {
+                "risk_id": 185,
+                "risk_name": "المخدرات أو الكحول"
+            }
+        ]
+    },
+    {
+        "disease_id": 115,
+        "disease_name": "اضطراب الشخصية المعادي للمجتمع",
+        "causes": [],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 116,
+        "disease_name": "تضيق في الشريان الأورطي",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 160,
+                "risk_name": "الصمام الأبهري ثنائي الشرف"
+            },
+            {
+                "risk_id": 186,
+                "risk_name": "تضيق تحت الأبهري"
+            },
+            {
+                "risk_id": 187,
+                "risk_name": "القناة الشريانية السالكة"
+            },
+            {
+                "risk_id": 188,
+                "risk_name": "ثقوب في الجدار بين جانبي القلب الأيمن والأيسر"
+            },
+            {
+                "risk_id": 189,
+                "risk_name": "تضيق الصمام التاجي الخلقي"
+            }
+        ]
+    },
+    {
+        "disease_id": 117,
+        "disease_name": "تسلخ الأبهر",
+        "causes": [
+            {
+                "cause_id": 208,
+                "cause_name": "نوع أ"
+            },
+            {
+                "cause_id": 209,
+                "cause_name": "اكتب ب"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 118,
+        "disease_name": "الحساسية المفرطة",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 190,
+                "risk_name": "الحساسية المفرطة السابقة"
+            },
+            {
+                "risk_id": 191,
+                "risk_name": "الحساسية أو الربو"
+            },
+            {
+                "risk_id": 192,
+                "risk_name": "شروط أخرى معينة"
+            }
+        ]
+    },
+    {
+        "disease_id": 119,
+        "disease_name": "اضطراب القلق الاجتماعي (الرهاب الاجتماعي)",
+        "causes": [
+            {
+                "cause_id": 210,
+                "cause_name": "الصفات الموروثة"
+            },
+            {
+                "cause_id": 211,
+                "cause_name": "هيكل الدماغ"
+            },
+            {
+                "cause_id": 59,
+                "cause_name": "بيئة"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 193,
+                "risk_name": "تجارب سلبية"
+            },
+            {
+                "risk_id": 194,
+                "risk_name": "طبع"
+            },
+            {
+                "risk_id": 195,
+                "risk_name": "متطلبات اجتماعية أو عمل جديدة"
+            },
+            {
+                "risk_id": 196,
+                "risk_name": "وجود مظهر أو حالة تلفت الانتباه"
+            }
+        ]
+    },
+    {
+        "disease_id": 120,
+        "disease_name": "قلس الصمام الأبهري",
+        "causes": [
+            {
+                "cause_id": 212,
+                "cause_name": "تضيق الصمام الأبهري (تضيق الأبهر)"
+            },
+            {
+                "cause_id": 213,
+                "cause_name": "التهاب بطانة غرف القلب وصماماته (التهاب الشغاف)"
+            },
+            {
+                "cause_id": 214,
+                "cause_name": "الحمى الروماتيزمية"
+            },
+            {
+                "cause_id": 215,
+                "cause_name": "أمراض أخرى"
+            },
+            {
+                "cause_id": 216,
+                "cause_name": "تمزق أو إصابة الشريان الرئيسي بالجسم (الشريان الأورطي)"
+            }
+        ],
+        "risk_factors": []
+    },
+    {
+        "disease_id": 121,
+        "disease_name": "فقر دم",
+        "causes": [],
+        "risk_factors": [
+            {
+                "risk_id": 197,
+                "risk_name": "نظام غذائي يفتقر إلى بعض الفيتامينات والمعادن"
+            },
+            {
+                "risk_id": 198,
+                "risk_name": "اضطرابات معوية"
+            },
+            {
+                "risk_id": 199,
+                "risk_name": "الحيض"
+            },
+            {
+                "risk_id": 67,
+                "risk_name": "حمل"
+            },
+            {
+                "risk_id": 7,
+                "risk_name": "تاريخ العائلة"
+            },
+            {
+                "risk_id": 200,
+                "risk_name": "عوامل اخرى"
+            },
+            {
+                "risk_id": 0,
+                "risk_name": "عمر"
+            }
+        ]
+    },
+    {
+        "disease_id": 122,
+        "disease_name": "كسر في الكاحل",
+        "causes": [
+            {
+                "cause_id": 217,
+                "cause_name": "حوادث السيارات"
+            },
+            {
+                "cause_id": 218,
+                "cause_name": "السقوط"
+            },
+            {
+                "cause_id": 219,
+                "cause_name": "العثرات"
+            }
+        ],
+        "risk_factors": [
+            {
+                "risk_id": 201,
+                "risk_name": "شارك في الرياضات عالية التأثير"
+            },
+            {
+                "risk_id": 202,
+                "risk_name": "استخدم تقنية أو معدات رياضية غير مناسبة"
+            },
+            {
+                "risk_id": 203,
+                "risk_name": "زيادة مستوى نشاطك فجأة"
+            },
+            {
+                "risk_id": 204,
+                "risk_name": "اجعل منزلك مزدحمًا أو ضعيف الإضاءة"
+            },
+            {
+                "risk_id": 205,
+                "risk_name": "لديك شروط معينة"
+            },
+            {
+                "risk_id": 24,
+                "risk_name": "التدخين"
+            }
+        ]
+    }
+]
